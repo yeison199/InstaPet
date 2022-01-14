@@ -16,9 +16,9 @@ body {
 .FormRegister {
 	width: 50%;
 	background: #C9D9E3;
-	padding: 30px;
+	padding: 3em;
 	margin: auto;
-	margin-top: 100px;
+	margin-top: 1em;
 	border-radius: 4px;
 	font-family: 'Marcellus', serif;
 	box-shadow: 7px 12px 37px #000;
@@ -39,27 +39,27 @@ img {
 }
 
 .encabezado h1 {
-	font-size: 80px;
+	font-size: 5em;
 	color:#542E71;
 }
 
 .encabezado h2 {
-	font-size: 15px;
+	font-size: 2em;
 }
 
 .encabezado p {
 	font-family:'Marcellus', serif;
-	font-size: 15px;
+	font-size: 1.5em;
 }
 
 .controls {
 	font-family: 'Marcellus', serif;
 	width: 100%;
 	background: #542E71;
-	padding: 8px;
-	border-radius: 4px;
+	padding: .8em;
+	border-radius: .4em;
 	color: #fff;
-	margin-bottom: 12px;
+	margin-bottom: .8em;
 	border: 2px solid #fff;
 	font-size: 20px;
 }
