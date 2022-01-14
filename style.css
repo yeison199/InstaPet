@@ -1,0 +1,82 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: url(https://www.paraisodemascotas.co/wp-content/uploads/2019/06/Fondo-quienes-somos-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+.FormRegister {
+	width: 500px;
+	background: #C9D9E3;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'Marcellus', serif;
+	box-shadow: 7px 12px 37px #000;
+}
+
+.encabezado {
+	font-family:'Righteous', cursive;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+img {
+	text-align: left;
+	width: 150px;
+	border-radius: 6px;
+	border: 1px;
+	margin:0;
+}
+
+.encabezado h1 {
+	font-size: 80px;
+	color:#542E71;
+}
+
+.encabezado h2 {
+	font-size: 15px;
+}
+
+.encabezado p {
+	font-family:'Marcellus', serif;
+	font-size: 15px;
+}
+
+.controls {
+	font-family: 'Marcellus', serif;
+	width: 100%;
+	background: #542E71;
+	padding: 8px;
+	border-radius: 4px;
+	color: #fff;
+	margin-bottom: 12px;
+	border: 2px solid #fff;
+	font-size: 20px;
+}
+
+.FormRegister .botons {
+	width:100%;
+	background: #CEDED2;
+	padding: 8px;
+	border-radius: 4px;
+	font-family:'Righteous', cursive;
+	color:#542E71;
+	font-size: 20px;
+	margin: 16px 0;
+}
+
+.color {
+	padding: 1px;
+}
+
+.botons:hover {
+	opacity: .7;
