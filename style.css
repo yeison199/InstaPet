@@ -14,7 +14,7 @@ body {
 
 
 .FormRegister {
-	width: 500px;
+	width: 50%;
 	background: #C9D9E3;
 	padding: 30px;
 	margin: auto;
@@ -32,7 +32,7 @@ body {
 
 img {
 	text-align: left;
-	width: 150px;
+	width: 30%;
 	border-radius: 6px;
 	border: 1px;
 	margin:0;
